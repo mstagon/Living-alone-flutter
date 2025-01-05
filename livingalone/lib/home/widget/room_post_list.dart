@@ -172,7 +172,7 @@ class PostItem extends StatelessWidget {
                           SizedBox(width: 6),
                           Row(
                             children: [
-                              SvgPicture.asset('assets/image/comment.svg'),
+                              SvgPicture.asset('assets/image/commentmini.svg'),
                               SizedBox(width: 2),
                               Text('${post.comments}', style: AppTextStyles.caption2.copyWith(color: GRAY400_COLOR)),
                             ],
