@@ -141,7 +141,8 @@ cd MoYang_FrontEnd
 
 ## 📞 문의
 
-- **GitHub**: [mstagon/MoYang_FrontEnd](https://github.com/mstagon/MoYang_FrontEnd)
+- **Email**: devcms21@gmail.com
+- **Portfolio**: https://devcms.me/projects/moyang
 
 ---
 
